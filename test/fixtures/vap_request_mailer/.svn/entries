@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19212"
+   name=""
+   committed-date="2007-12-17T00:20:36.135234Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/test/fixtures/vap_request_mailer"
+   last-author="sob"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+</wc-entries>

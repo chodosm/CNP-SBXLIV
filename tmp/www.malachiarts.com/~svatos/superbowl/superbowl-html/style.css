@@ -1,0 +1,89 @@
+
+
+/* ::::::::::::::::::::::::::::::::::::::::::::::::::::
+general and global site elements
+:::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+body {background: #fff url(images/bg.gif) repeat center;margin:0;font-family:verdana;font-size:12px;}
+body #confirmation {background: #fff;margin:0;font-family:verdana;font-size:12px;}
+a {color:#cc0000;}
+
+/* layout */
+
+#wrapper {margin:0px auto;width:876px;border:0px solid violet;}
+#col_left {width:194px; border:0px solid green;float:left;padding-top:10px;}
+#col_right {margin-left:10px;width:650px; border:0px solid green;float:left;padding-left:10px;}
+#col_right_content {width:610px;border:0px solid orange;margin:0px auto;}
+
+#footer {border:0px solid red;margin:0px auto;text-align:center;font-family:verdana;font-size:12px;color:#666666;margin-top:25px;margin-bottom:25px;}
+#footer a {color:#999999;}
+#bug {width:238px;height:48px;margin:0px auto;display:block;}
+
+
+#sidebar_nav {width:178px;margin:0px auto;border:0px solid orange;padding-left:15px;margin-bottom:10px; position:relative;left:-5px;}
+#sidebar_infobox {width:178px;margin:0px auto;border:0px solid orange;background: url(images/sidebar-bg.gif) repeat-y;}
+.sidebar_infobox_subhead {display:block;margin:0px auto;width:170px;height:27px;}
+
+.sidebar {font-family:verdana;color:#000;font-size:10px;}
+.sidebar_hilite {color:#666666;font-weight:bold;}
+.sidebar_subheader {font-family:verdana;text-transform:uppercase;color:#000000;font-weight:bold;font-size:10px;display:block;}
+.sidebar_textcapsule {width:160px;margin:0px auto;border:0px solid blue;margin-top:10px;margin-bottom:20px;}
+
+#masthead {width:876px;height:140px;border:0px;}
+img.sidebar_cap {width:178px;height:11px;display:block;}
+img.sidehead {width:170;height:27px;display:block;margin:0px auto;}
+img.phone_number {width:165px;height:41px;border:0px;display:block;padding-top:7px;position:relative;left:-3px;}
+
+.sidebar_link {color:#2286bf;text-decoration:none;display:block;font-family:verdana;font-size:12px;margin-bottom:10px;}
+.sidebar_link_linkto {background-image: url(images/sidebar-arrow.gif);background-repeat: no-repeat;list-style-type: none;padding-left:15px;background-position: left center;}
+
+.sidebar_textcapsule_offsitelinks {width:160px;margin:0px auto;border:0px solid blue;margin-top:10px;margin-bottom:20px;}
+.sidebar_textcapsule_offsitelinks ul {margin:0px;padding:0px;}
+.sidebar_textcapsule_offsitelinks li {background-image: url(images/sidebar-arrow.gif);background-repeat: no-repeat;list-style-type: none;padding-left:15px;background-position: left center;}
+.sidebar_textcapsule_offsitelinks a {color:#2286bf;text-decoration:none;font-family:verdana;font-size:10px;}
+
+
+.dateinfo {margin-top:10px;}
+.dateinfo ul {margin:0px;padding:0px;position:relative;left:-12px;}
+.dateinfo li {background-image: url(images/sidebar-arrow-main.gif);background-repeat: no-repeat;list-style-type: none;padding-left:15px;background-position: left center;padding-bottom:3px;}
+.dateinfo a {color:#2286bf;text-decoration:none;font-family:verdana;font-size:10px;}
+
+
+.spaceclass {border-bottom:1px solid #cccccc;}
+
+.generalinfo {background:#e4eaf1;width:196px;}
+select {width:200px;}
+.form_subhead {width:90%;background:#eeeeee;color:#666666;display:block;width:100%;font-weight:bold;}
+
+.header {display:block;margin-top:20px;margin-bottom:20px;}
+
+
+.blurb {color:#2286bf;font-weight:bold;}
+
+.special_announcment {border:0px solid red;margin:0px auto;text-align:center;font-family:verdana;font-size:12px;color:#666666;margin-top:25px;}
+
+
+.infotable td {padding-bottom:10px;}
+
+/* links */
+
+
+
+/* text */
+
+#col_right_content h2 {font-family:verdana;font-size:20px;color:#2286bf;}
+#col_right_content .special_announcement {border:0px solid red;margin:0px auto;text-align:center;margin-top:25px;font-family:verdana;font-weight:bold;font-size:16px;color:#2286bf;}
+#col_right_content ul {padding-left:15px;font-family:verdana;font-size:12px;}
+
+.price {background:#cfdfec;color:#505f64;font-style:italic;font-weight:bold;font-size:12px;}
+.price_left {background:#cfdfec;}
+
+/* images */
+
+img {border:0px;}
+
+
+
+/* ::::::::::::::::::::::::::::::::::::::::::::::::::::
+home page elements
+:::::::::::::::::::::::::::::::::::::::::::::::::::: */

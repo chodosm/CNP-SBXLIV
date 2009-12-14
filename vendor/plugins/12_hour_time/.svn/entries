@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21463"
+   name=""
+   committed-date="2009-12-10T11:05:25.442948Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/12_hour_time"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="21463"
+   name="Rakefile"
+   text-time="2009-12-10T15:24:09.000000Z"
+   committed-date="2009-12-10T11:05:25.442948Z"
+   checksum="d046925af4a5deeab7ee9b678699e882"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   committed-rev="21463"
+   name="init.rb"
+   text-time="2009-12-10T15:24:09.000000Z"
+   committed-date="2009-12-10T11:05:25.442948Z"
+   checksum="021c95c7c4fc38177dc2141f90b395d2"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="21463"
+   name="CHANGELOG"
+   text-time="2009-12-10T15:24:09.000000Z"
+   committed-date="2009-12-10T11:05:25.442948Z"
+   checksum="b98bd6e0021969a0d82830ce2126f073"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   committed-rev="21463"
+   name="MIT-LICENSE"
+   text-time="2009-12-10T15:24:09.000000Z"
+   committed-date="2009-12-10T11:05:25.442948Z"
+   checksum="44bf29c631494353efc6e9672e7d069e"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   committed-rev="21463"
+   name="README"
+   text-time="2009-12-10T15:24:09.000000Z"
+   committed-date="2009-12-10T11:05:25.442948Z"
+   checksum="fc89aa8416d48da221fcf11e28aad54e"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+</wc-entries>

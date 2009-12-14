@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/test/mock_app/config"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="locales"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="routes.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="6d765178811f083a0fe9d17ce39a88de"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="database.yml"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="c6f96d53cc600afb2d7ca942c772fea9"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="boot.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="1375ffc0d162a8ed845e9e9d100b7658"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   name="initializers"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="environment.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="662fef782a03f4a6f7eabe95c446f8cf"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   name="environments"
+   kind="dir"/>
+</wc-entries>

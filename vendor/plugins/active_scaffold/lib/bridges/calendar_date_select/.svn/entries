@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/lib/bridges/calendar_date_select"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="bridge.rb"
+   text-time="2009-12-10T15:24:06.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="3ae9f26d22292a1ab4ae91fa9a032042"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:06.000000Z"/>
+</wc-entries>

@@ -1,0 +1,294 @@
+<div id="sidebox_bottom"><img src="images/sidebox-bottom2.png" /></div>
+
+	
+	<div id="leftcol">
+			
+		<div id="main_content">
+		
+		<img src="images/splash-preevent.jpg" alt="Pre-Event Parking" />
+		
+			<div id="main_content_layout">
+			
+			<h2>General Information</h2>
+			
+<p>All staff, vendors, contractors, media, or other
+official employees or volunteers needing to park at the stadium between
+January 25th and February 6th will need to obtain a parking permit
+confirmation.</p>
+
+<p>To obtain your permit, simply complete the electronic form below and a
+parking confirmation page will be presented.  Please print the number of
+permits that you requested when you filled out the form.  Be ready to
+present the access permit with a picture ID upon entering the parking
+area.</p>
+
+<p>Parking areas will be broken up into 2 sections; Stadium East and
+Stadium West.</p>
+
+<div class="divider"></div>
+
+<h2>Stadium East Parking</h2>
+
+<p><b>Enter parking area via Gate 2 (services stadium Mag entrances E1 and E2)</b></p>
+
+<p>Pre-Game and Halftime Volunteers, Staff and Contractors, ADA, Team Store
+Parking, Stadium Tours Parking</p>
+
+			<!--start download table-->
+			  <table class="download">
+				<tr>
+				  <td class="icontd"><a href="downloads/map-stadiumeast.pdf"><img src="images/icon2-pdf.png" width="23" height="24"></a></td>
+				  <td class="texttd"><a href="downloads/map-stadiumeast.pdf">Download Stadium East Map & Directions</a></td>
+				</tr>
+			  </table>
+			<!--end download table-->
+
+
+<div class="divider"></div>
+
+<h2>Stadium West Parking</h2>
+
+<p><b>Enter parking area via Gate 6 (services stadium Mag entrances M and W1)</b></p>
+
+<p>PPW, Domestic Broadcast, Media, Staff and Contractors</p>
+
+
+			<!--start download table-->
+			  <table class="download">
+				<tr>
+				  <td class="icontd"><a href="downloads/map-stadiumwest.pdf"><img src="images/icon2-pdf.png" width="23" height="24"></a></td>
+				  <td class="texttd"><a href="downloads/map-stadiumwest.pdf">Download Stadium West Map & Directions</a></td>
+				</tr>
+			  </table>
+			<!--end download table-->
+
+			<div class="divider"></div>
+			
+			<h2>Register for Parking</h2>
+<p><b>Registration will begin in the near future. Please check again soon.</b></p>						
+<!--			  <table id="formtable">
+				<tr>
+				  <td class="labeltd" colspan="2"><h3>General Information</h3></td>
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Select Days</td>
+				  <td class="formtd">
+<%#= form_tag :action => 'confirm' %>
+<input type="hidden" name="access_code" value="preevent"> 
+<input type="hidden" name="application" value ="sap" />
+<input type="hidden" name="event_id" value ="2051" />
+					<div class="checkbox_line"><input type="checkbox" name="day11151" value="checked" /><span class="checktext">Monday, January 25th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11161" value="checked" /><span class="checktext">Tuesday, January 26th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11171" value="checked" /><span class="checktext">Wednesday, January 27th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11181" value="checked" /><span class="checktext">Thursday, January 28th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11191" value="checked" /><span class="checktext">Friday, January 29th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11201" value="checked" /><span class="checktext">Saturday, January 30th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11221" value="checked" /><span class="checktext">Monday, February 1st</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11231" value="checked" /><span class="checktext">Tuesday, February 2nd</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11241" value="checked" /><span class="checktext">Wednesday, February 3rd</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11251" value="checked" /><span class="checktext">Thursday, February 4th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11261" value="checked" /><span class="checktext">Friday, February 5th</span></input></div>
+					<div class="checkbox_line"><input type="checkbox" name="day11271" value="checked" /><span class="checktext">Saturday, February 6th</span></input></div> -->
+<!--					<a href="#" class="selectall">Select all days</a> -->
+<!--
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Select Lot</td>
+				  <td class="formtd">
+				  	<select name="lot_id"> -->
+<!--                        <%# if !(@lots.size == 1) -%>
+                            <option>choose...</option>
+                        <%# end -%> -->
+<!--                        <%# @lots.each do |lot| -%>
+                            <option value="<%#= lot.id %>32871"<%#= " SELECTED='1'" if (@lots[0] == lot) && (@lots.size == 1) %>><%#= lot.lot_name.titleize %>Stadium East</option>
+                            <option value="<%#= lot.id %>32881"<%#= " SELECTED='1'" if (@lots[0] == lot) && (@lots.size == 1) %>><%#= lot.lot_name.titleize %>Stadium West</option>
+                        <%# end -%>
+                    </select>
+				  </td>
+				</tr>
+			<tr>
+				  <td class="labeltd" colspan="2"><h3>Contact Information</h3></td>
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">First Name</td>
+				  <td class="formtd">
+				  	<input name="firstname" value="<%=oldparam("firstname")%>">
+				  </td>
+				</tr>				
+				<tr>
+				  <td class="labeltd">Last Name</td>
+				  <td class="formtd">
+				  	<input name="lastname" value="<%=oldparam("lastname")%>">
+				  </td>
+				</tr>				
+				<tr>
+				  <td class="labeltd">Company/Group</td>
+				  <td class="formtd">
+				  	<input name="company" value="<%=oldparam("company")%>">
+				  </td>
+				</tr>				
+				<tr>
+				  <td class="labeltd">Address 
+				  	<span class="formnote">line 1</span>
+				  </td>
+				  <td class="formtd">
+				  	<input name="address1" value="<%=oldparam("address1")%>">
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Address
+				  	<span class="formnote">line 2 (optional)</span>
+				  </td>
+				  <td class="formtd">
+				  	<input name="address2" value="<%=oldparam("address2")%>">
+				  </td>
+				</tr>				
+				<tr>
+				  <td class="labeltd">City</td>
+				  <td class="formtd">
+				  	<input name="city" value="<%=oldparam("city")%>">
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">State</td>
+				  <td class="formtd">
+				  	<select name="state" value="<%=oldparam("state")%>">
+						<option>Choose State</option>
+						<option>AL</option>
+						<option>AK</option>
+						<option>AZ</option>
+						<option>AR</option>
+						<option>CA</option>
+						<option>CO</option>
+						<option>CT</option>
+						<option>DE</option>
+						<option>DC</option>
+						<option>FL</option>
+						<option>GA</option>
+						<option>HI</option>
+						<option>ID</option>
+						<option>IL</option>
+						<option>IN</option>
+						<option>IA</option>
+						<option>KS</option>
+						<option>KY</option>
+						<option>LA</option>
+						<option>ME</option>
+						<option>MD</option>
+						<option>MA</option>
+						<option>MI</option>
+						<option>MN</option>
+						<option>MS</option>
+						<option>MO</option>
+						<option>MT</option>
+						<option>NE</option>
+						<option>NV</option>
+						<option>NH</option>
+						<option>NJ</option>
+						<option>NM</option>
+						<option>NY</option>
+						<option>NC</option>
+						<option>ND</option>
+						<option>OH</option>
+						<option>OK</option>
+						<option>OR</option>
+						<option>PR</option>
+						<option>RI</option>
+						<option>SC</option>
+						<option>SD</option>
+						<option>TN</option>
+						<option>TX</option>
+						<option>UT</option>
+						<option>VT</option>
+						<option>VA</option>
+						<option>WA</option>
+						<option>WV</option>
+						<option>WI</option>
+						<option>WY</option>
+						<option></option>
+					</select>
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Zip/Postal Code</td>
+				  <td class="formtd">
+				  	<input  name="zip" value="<%=oldparam("zip")%>" >
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Phone</td>
+				  <td class="formtd">
+				  	<input name="phone" value="<%=oldparam("phone")%>">
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Email
+				  	<span class="formnote">Enter the email address and password for your Click and Park account. 
+				  		If you don't have an account, a new one will be created for you.
+				  	</span>
+				  </td>
+				  <td class="formtd">
+				  	<input name="email" value="<%=oldparam("email")%>">
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd">Password
+				  	<span class="formnote">Forgot password? <a href="#">Click here</a>.
+				  	</span>
+				  </td>
+				  <td class="formtd">
+				  	<input  name="password" value="<%=oldparam("password")%>">
+				  </td>
+				</tr>
+				<tr>
+				  <td class="labeltd"></td>
+				  <td class="formtd">
+						<input type="image" src="images/btn-submit.png" alt="submit" /></a>
+				  </td>
+				</tr>
+			  </table>
+-->			
+			</div>
+				
+			
+		</div>
+			
+    <%= render :partial => "two_col" %>
+
+	<div id="rightcol">
+	
+		<div class="sidebox">
+		
+			<div class="sidecontent">
+			
+			<div class="sidesub"><img src="images/sidesub-quickhits.png" alt="Quick Hits" /></div>
+
+			<h3>Day of Game Information</h3>
+			
+			All staff, volunteers, and other accredited groups are required to <a href="/staff">click
+			here to register</a> to park at Miami-Dade College North Campus and take the
+			staff and volunteer shuttle to Dolphin Stadium.
+			
+			<h3>Making a Delivery?</h3>
+			
+			You need to register with VACIS!  <a href="/vap">Click here for more information</a>.
+
+			</div>
+		
+		
+		</div>
+		
+
+
+
+	</div>
+	
+	<div class="clear"></div>
+	
+
+</div><!--end main-->
+
+<%= render :partial => "service" %>

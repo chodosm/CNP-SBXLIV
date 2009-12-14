@@ -1,0 +1,339 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>SUPER BOWL XLII PARKING BY CLICK AND PARK</title>
+	<meta name="generator" content="BBEdit 8.0">
+
+
+	
+
+	  <link href="style.css" media="screen" rel="Stylesheet" type="text/css" />
+	  
+	   
+	  
+
+</head>
+<body>
+
+
+<!--start wrapper-->
+<div id="wrapper">
+
+
+<img src="images/masthead.gif" alt="Super Bowl XLII Parking by Click and Park" id="masthead">
+
+
+
+<!--start left column layout div-->
+<!--start left column layout div-->
+<!--start left column layout div-->
+
+<div id="col_left">
+
+<div id="sidebar_nav">
+<a href="index.html"><img src="images/navbutton_home.gif" alt="Home" border="0" style="margin-bottom:5px;"></a>
+<a href="nflx.html"><img src="images/navbutton_nflx.gif" alt="NFL Experience" border="0" style="margin-bottom:5px;"></a>
+<a href="dog.html"><img src="images/navbutton_dayofgame.gif" alt="Day of Game" border="0" style="margin-bottom:5px;"></a>
+<a href="nflol.html"><img src="images/navbutton_onlocation.gif" alt="NFL on Location" border="0" style="margin-bottom:5px;"></a>
+<a href="vap.html"><img src="images/navbutton_vacis.gif" alt="Vendor Access Program" border="0" style="margin-bottom:5px;"></a>
+</div>
+
+
+
+<div id="sidebar_infobox">
+<img src="images/sidebar-top.gif" class="sidebar_cap">
+
+<img src="images/sidehead-customer.gif" alt="Customer Service" class="sidehead">
+
+
+
+<div class="sidebar_textcapsule">
+<span class="sidebar_subheader">LOCATION</span>
+
+<p class="sidebar"><span class="sidebar_hilite">Peoria Sports Complex</span><br/>
+16101 N. 83rd Avenue<br/>
+Peoria, ZA 85832</p>
+
+</div>
+
+
+
+
+
+
+<div class="sidebar_textcapsule">
+<span class="sidebar_subheader">HOURS OF OPERATION</span>
+
+<p class="sidebar"><span class="sidebar_hilite">Jan. 21  - Feb. 22</span><br/>
+9:00am to 5:00pm MST</p>
+
+
+<p class="sidebar"><span class="sidebar_hilite">Feb. 3</span><br/>
+7:00am to 1:00pm MST</p>
+
+</div>
+
+
+
+
+<div class="sidebar_textcapsule">
+<span class="sidebar_subheader">TELEPHONE SUPPORT</span>
+<img src="images/phone.gif" alt="" width="159" height="36" border="0" style="margin-top:10px;">
+</div>
+
+
+
+
+
+
+<img src="images/sidehead-links.gif" alt="Important Links" class="sidehead">
+
+<div class="sidebar_textcapsule_offsitelinks">
+<ul>
+<li><a href="http://www.azsuperbowl.com/" target="_new">SBXLII Host Committee</a></li>
+<li><a href="http://www.glendalesgotgame.com/" target="_new">City of Glendale</a></li>
+<li><a href="http://www.superbowl.com/" target="_new">www.superbowl.com</a></li>
+</ul>
+
+</div>
+
+<img src="images/sidebar-bottom.gif" class="sidebar_cap">
+
+</div>
+
+
+<br />
+<br />
+
+
+</div>
+<!--end left column layout div-->
+<!--end left column layout div-->
+<!--end left column layout div-->
+
+
+
+
+
+<!--start right column layout div // main body content-->
+<!--start right column layout div // main body content-->
+<!--start right column layout div // main body content-->
+<div id="col_right">
+
+<!--start col right content // creates margins, etc-->
+<div id="col_right_content">
+
+<h2>NFL Staff Pre-Week Parking Request</h2>
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut
+eleifend, felis nec pharetra volutpat, metus mauris molestie dolor, ut
+pretium nulla urna luctus mauris. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Sed vulputate quam vel sem. Fusce
+elementum diam vel magna.</p>
+
+
+
+<img src="images/header-screenreg.gif" alt="Screening Registration" class="header">
+
+
+
+
+
+
+
+
+
+
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr>
+<td width="17"><img src="images/pillbox-topleft.gif" alt="" width="17" height="11" border="0"></td>
+<td background="images/pillbox-top.gif"><img src="images/pillbox-top.gif" alt="" border="0"></td>
+<td width="17" align="right"><img src="images/pillbox-topright.gif" alt="" width="17" height="11" border="0"></td>
+</tr>
+
+
+<tr>
+<td width="17" background="images/pillbox-left.gif"><img src="images/pillbox-left.gif" alt="" border="0"></td>
+<td valign="top">
+ 
+ 
+ 
+ 	<!--start pillbox content-->
+	<table cellpadding=6 width="100%">
+	<tr>
+	<td valign="top">
+
+
+
+<table border="0" cellspacing="5" width="100%">
+<form>
+<tr><td colspan="2"><span class="form_subhead">Day and Location</span></td></tr
+<tr><td>Select Day</td></td><td align="right">
+	
+	
+	<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top" align="left" style="padding-right:20px;">
+	<input type="checkbox">&nbsp;Thu, Jan. 24<br>
+	<input type="checkbox">&nbsp;Fri, Jan. 25<br>
+	<input type="checkbox">&nbsp;Sat, Jan. 26<br>
+	<input type="checkbox">&nbsp;Sun, Jan. 27<br>
+	<input type="checkbox">&nbsp;Mon, Jan. 28<br>
+	<input type="checkbox">&nbsp;Tue, Jan. 29<br>
+	
+	</td>
+	
+	<td valign="top" valign="top" align="left" >
+	<input type="checkbox">&nbsp;Wed, Jan. 30<br>
+	<input type="checkbox">&nbsp;Thu, Jan. 31<br>
+	<input type="checkbox">&nbsp;Fri, Feb. 1<br>
+	<input type="checkbox">&nbsp;Sat, Feb. 2<br>
+	<input type="checkbox">&nbsp;Sun, Feb. 3<br>
+	<input type="checkbox">&nbsp;Mon, Feb. 4<br>
+	
+	</td>
+	</tr>
+	
+	
+	<tr><td colspan="2" align="right" style="padding-top:3px;">
+	<i><a href="*">select all days</a></i></td></tr>
+	</table>
+
+
+</td></tr>
+
+
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+
+<tr><td>Select Quantity</td></td><td align="right">
+<input class="generalinfo" style="width:100px;"></td></tr>
+
+
+
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+
+
+<tr><td>Select Lot</td></td><td align="right">
+<select>
+<option>choose...</option>
+<option>Lot A</option>
+<option>Lot B</option>
+<option>Lot C</option>
+<option>Lot D</option>
+<option>Lot E</option>
+</select></td></tr>
+
+
+<tr><td colspan="2" style="border-bottom:1px solid #cccccc;"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+
+
+
+<tr><td colspan="2" style="padding-top:15px;"><span class="form_subhead">Driver Information</span></td></tr>
+<tr><td>Driver Name</td><td align="right"><input class="generalinfo"></td></tr>
+
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Company/Group</td><td align="right"><input class="generalinfo"></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Address</td><td align="right"><input class="generalinfo"></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Phone</td><td align="right"><input class="generalinfo"></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Email</td><td align="right"><input class="generalinfo"></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Password</td><td align="right"><input class="generalinfo"></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td colspan="2" align="center" style="padding-top:15px;"><a href="confirm.html"><img src="images/button-submit.gif" alt="submit form"></a></td></tr>
+</form>
+</table>
+
+
+
+	
+	</td>
+	</tr>
+	</table>
+
+	<!--end pillbox content-->
+
+
+
+</td>
+<td width="17" background="images/pillbox-right.gif" align="right"><img src="images/pillbox-right.gif" border="0"></td>
+</tr>
+
+<tr>
+<td width="17"><img src="images/pillbox-bottomleft.gif" alt="" width="17" height="20" border="0"></td>
+<td background="images/pillbox-bottom.gif"><img src="images/pillbox-bottom.gif" alt="" border="0"></td>
+<td width="17" align="right"><img src="images/pillbox-bottomright.gif" alt="" width="17" height="20" border="0"></td>
+</tr>
+</table>
+<!--end of the liquid pillbox-->
+<!--end of the liquid pillbox-->
+<!--end of the liquid pillbox-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--start footer div // note: this falls within the right column-->
+<!--start footer div-->
+<!--start footer div-->
+
+<div id="footer">
+<img src="images/cap-bug.gif" alt="Click and Park" id="bug">
+
+
+<a href="http://www.clickandpark.com/" >Home</a> | 
+<a href="http://www.clickandpark.com/about.shtml">About Us</a> | 
+<a href="http://www.clickandpark.com/news_updates.shtml">News & Updates</a> | 
+<a href="http://www.clickandpark.com/faq.shtml">FAQs</a> | 
+<a href="http://www.clickandpark.com/apps/contact">Contact Us</a> | 
+<a href="http://www.clickandpark.com/apps/cart">Shopping Cart</a> | 
+<a href="http://www.clickandpark.com/terms.shtml">Terms</a><br />
+
+<a href="http://www.clickandpark.com/privacy.shtml">Privacy</a> | 
+<a href="http://www.clickandpark.com/corp/index.html">Client Solutions</a>
+
+
+</div>
+
+<!--end footer div-->
+<!--end footer div-->
+<!--end footer div-->
+
+
+
+</div>
+<!--end col right content-->
+
+
+</div>
+<!--end right column layout div // main body content-->
+<!--end right column layout div // main body content-->
+<!--end right column layout div // main body content-->
+
+
+
+</div>
+<!--end wrapper-->
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21461"
+   name=""
+   committed-date="2009-12-10T11:02:49.721424Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/db/migrate"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19165"
+   name="014_create_vap_days.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-12-12T08:36:51.054047Z"
+   checksum="c4a72a6a275598eece294a5d8e5742e0"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19165"
+   name="017_add_vap_request_permalink.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-12-12T08:36:51.054047Z"
+   checksum="43077117812b6560882841d60f06bf60"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="21461"
+   name="20091210105126_add_superbowl_xliv_vap_days.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:02:49.721424Z"
+   checksum="5a4b0aad1442f43d29cc3c65b8561976"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19097"
+   name="001_create_access_codes.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-12-07T21:23:32.125117Z"
+   checksum="aa65398a9d5b183d3d1ace4f39b43dfd"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19165"
+   name="015_add_vap_request_location.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-12-12T08:36:51.054047Z"
+   checksum="1ddb96780797e419357ad9206e0a870e"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="21461"
+   name="000-skip-old-migrations.sql"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:02:49.721424Z"
+   checksum="6d9df2f1cc9f5a7ff9eb45c3560db897"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19097"
+   name="002_create_events.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-12-07T21:23:32.125117Z"
+   checksum="d84a030d4c5d7b215738d655ccfe098b"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19165"
+   name="016_remove_vap_request_restrictions.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-12-12T08:36:51.054047Z"
+   checksum="ab08c12213efb8c5f69abc0c14e8d1ef"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="20289"
+   name="018_add_passenger_info_to_vap.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2008-12-10T06:39:29.751586Z"
+   checksum="931ce1758f1b4464e2e06f886ebf784b"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+</wc-entries>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21463"
+   name=""
+   committed-date="2009-12-10T11:05:25.442948Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/test"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="bridges"
+   kind="dir"/>
+<entry
+   name="extensions"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="model_stub.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="6aa4e6ba7770dcdf88c1d7a710d8a1d4"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="test_helper.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="ae5675ef3e49da399e36ee9f0e1dd825"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="const_mocker.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="44f582f11696f0bdc4c4af289d1e41db"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   name="mock_app"
+   kind="dir"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   name="data_structures"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="run_all.rb"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="9c55592dd24263e28e9cd538be4d7478"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:04.000000Z"/>
+</wc-entries>

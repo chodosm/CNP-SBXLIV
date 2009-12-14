@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19201"
+   name=""
+   committed-date="2007-12-15T00:31:37.998854Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/test/functional"
+   last-author="sob"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19201"
+   name="sessions_controller_test.rb"
+   text-time="2009-12-10T15:23:51.000000Z"
+   committed-date="2007-12-15T00:31:37.998854Z"
+   checksum="09bef9f702e1172e516fb15870f59bbd"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:51.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="flow_controller_test.rb"
+   text-time="2009-12-10T15:23:51.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="b8ecb8af2ac569c5be4ca9f97e24a772"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:51.000000Z"/>
+</wc-entries>

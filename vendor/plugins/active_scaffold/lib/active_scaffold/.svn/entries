@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/lib/active_scaffold"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="locale"
+   kind="dir"/>
+<entry
+   name="actions"
+   kind="dir"/>
+<entry
+   name="helpers"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="configurable.rb"
+   text-time="2009-12-10T15:24:08.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="b0b301820c411c0a9ff43db54aaf8fe9"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:07.000000Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="attribute_params.rb"
+   text-time="2009-12-10T15:24:08.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="038420a649995e4ba0481c77c4e9053d"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="constraints.rb"
+   text-time="2009-12-10T15:24:08.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="806c36d8b5a07d8cd2ba88f9bb2b0268"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="finder.rb"
+   text-time="2009-12-10T15:24:08.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="23fd7bb013ee4fb402556bfce4e0c8de"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+<entry
+   name="data_structures"
+   kind="dir"/>
+</wc-entries>

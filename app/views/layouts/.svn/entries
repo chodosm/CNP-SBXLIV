@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21456"
+   name=""
+   committed-date="2009-12-09T21:24:17.233280Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/app/views/layouts"
+   last-author="mark"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21456"
+   name="confirm.rhtml"
+   text-time="2009-12-10T15:23:53.000000Z"
+   committed-date="2009-12-09T21:24:17.233280Z"
+   checksum="b54f2ba3f99b3afad539e6e1834eb150"
+   last-author="mark"
+   kind="file"
+   prop-time="2009-12-10T15:23:53.000000Z"/>
+<entry
+   committed-rev="21446"
+   name="application.rhtml"
+   text-time="2009-12-10T15:23:53.000000Z"
+   committed-date="2009-12-09T09:09:00.776177Z"
+   checksum="9e2eb82da16685a379720c1cd7174fcf"
+   last-author="mark"
+   kind="file"
+   prop-time="2009-12-10T15:23:53.000000Z"/>
+<entry
+   committed-rev="19168"
+   name="admin.rhtml"
+   text-time="2009-12-10T15:23:53.000000Z"
+   committed-date="2007-12-13T17:17:35.116764Z"
+   checksum="8a7752866a136776e38ba25741aa6a15"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:53.000000Z"/>
+</wc-entries>

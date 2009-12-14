@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19058"
+   name=""
+   committed-date="2007-11-28T18:58:11.721044Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/tmp/www.malachiarts.com/~svatos/superbowl/superbowl-html/images"
+   last-author="dann"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19058"
+   name="button-submit.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="b8034a2c01f6cb2da59f4624c78bb7c5"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="cap-bug.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="92fb69c666398eb13c669bb9ad8066af"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="confirmation-header.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="4a99d7bc4344f42c6234fbd1fbfbfb7b"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="header-generalinfo.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="76325059b30a4ce131363c4e4e9710eb"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-right.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="62deb6973200faa0e18b4e15ad8588b9"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-bottomleft.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="99611b266288a441edda536383bbcd56"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pricebox-bottomleft.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="f192ddaa2a63e3107b44525d36f30e87"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="splashlinks_01.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="ab1446d16e67bc3af5745ffc4e687347"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="navbutton_dayofgame.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="6546de2dad62a36cde0c19c8bf2dfccd"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="splashlinks_02.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="0b6b7d5facdf26e63e3e7ec0e27b4bf2"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="bullet_clickandpark.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="f1c353a10d4cd6c54106835a4afff508"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="splashlinks_03.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="72609e3c7d441e0c70b247cf4952a939"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="splashlinks_04.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="26df91e39b627ece47d766ce62560030"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="barcode.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="6b9e8a480dc3b864ff9b1b14c297a235"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-left.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="05b28835059eac15d377411934421ad4"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="header-screenreg.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="c0eda5aa30da9f1f662db386a85d03f0"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="header-map.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="25dac2618f9d5a5ea4da0542fb506a0c"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="header-moreinfo.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="aa8ad6bdaac0be855f706be94c09008f"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="navbutton_nflx.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="e4adef761385dfebead64822b69b5672"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="phone.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="453d4d80a16d682a916f941d75410f36"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-bottomright.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="2460d010c129a6d03db5ecb49554a9cb"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="sidebar-bottom.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="d26b31d48dce4a24cdafdeaf51a2c0a2"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-bottom.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="06837e7ff92ad83ef87fa1a768c9e886"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pricebox-bottomright.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="c95fcf9902627e688ef92d313418d4b3"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="parkingpermit.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="60e46eb48e5181245154df1e351207b8"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="spacer.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="49aeb826e3b57c10427d41d5aca73701"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="sidehead-links.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="7a0c79a136d5da3458a8faec074f22fd"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-topleft.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="252950f11b871e7e8f9cbef508d41202"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="masthead.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="92a45a06a9e5263d8d6fd365677ab34c"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pricebox-topleft.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="8dbe393bbfe350a620543bd54a6961c3"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="navbutton_home.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="9a4a06db5265289530efe3dd57ba7707"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:56.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="header-directions.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="b443b6e11d17d0f356bf56d11d963736"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="header-permitprices.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="fd40a414c4f672031a6b346a8b2f21e1"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="navbutton_vacis.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="91354c081d787f09ab40590185d53096"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="navbutton_onlocation.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="8518f23274cd5f05371951baa2e116e1"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="downloadmap.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="debb573b928a0264595402d11d71107f"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="sidehead-customer.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="ac964ea7c786e2ce4ae129286286f0e2"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-topright.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="69e0a0d712f347907d18a076c038eb54"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pricebox-topright.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="b33d5aa63fa28b4bf82797c4f64a0b6d"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="pillbox-top.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="14fde2b3a4168323722267d5e3a64b9f"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="sidebar-top.gif"
+   text-time="2009-12-10T15:23:57.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="6b3b7e64fde7c8f186e6da6c2c84fa40"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+</wc-entries>

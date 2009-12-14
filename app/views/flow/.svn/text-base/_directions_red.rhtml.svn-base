@@ -1,0 +1,111 @@
+<table>
+<tr>
+<td>
+<!--start item-->
+<table class="eventitem">
+  <tr>
+    <td><img src="images/bullet_clickandpark.gif" alt="" width="16" height="14"></td>
+    <td><span><b>From Southeast (Phoenix)</b></span></td>
+    <td style="padding-left:8px;"></td>
+  </tr>
+</table>
+
+<!--start supplemental content for above item-->
+<table>
+  <tr>
+    <td><img src="images/spacer.gif" alt="" width="16" height="14"></td>
+    <td>
+      <span>
+      I-10 to 91st Ave. Exit 134<br />
+      North on 91st Ave.<br />
+      Left on Maryland Ave.
+      </span>
+    </td>
+  </tr>
+</table>
+<!--end supplemental content for above item-->
+</td>
+
+<td>
+<!--start item-->
+<table class="eventitem">
+  <tr>
+    <td><img src="images/bullet_clickandpark.gif" alt="" width="16" height="14"></td>
+    <td><span><b>From Southwest</b></span></td>
+    <td style="padding-left:8px;"></td>
+  </tr>
+</table>
+
+<!--start supplemental content for above item-->
+<table>
+  <tr>
+    <td><img src="images/spacer.gif" alt="" width="16" height="14"></td>
+    <td>
+      <span>
+      I-10 to 91st Ave. Exit 134<br />
+      North on 91st Ave.<br />
+      Left on Maryland Ave.
+      </span>
+    </td>
+  </tr>
+</table>
+<!--end supplemental content for above item-->
+</td>
+</tr>
+
+<tr>
+<td>
+<!--start item-->
+<table class="eventitem">
+  <tr>
+    <td><img src="images/bullet_clickandpark.gif" alt="" width="16" height="14"></td>
+    <td><span><b>From North & Northeast</b></span></td>
+    <td style="padding-left:8px;"></td>
+  </tr>
+</table>
+
+<!--start supplemental content for above item-->
+<table>
+  <tr>
+    <td><img src="images/spacer.gif" alt="" width="16" height="14"></td>
+    <td>
+      <span>
+      Loop 101 South<br />
+      Exit Northern Ave.<br />
+      Left on Northern Ave.<br />
+      Right on 91st Ave.<br />
+      Right on Maryland Ave.
+      </span>
+    </td>
+  </tr>
+</table>
+<!--end supplemental content for above item-->
+</td>
+
+<td>
+<!--start item-->
+<table class="eventitem">
+  <tr>
+    <td><img src="images/bullet_clickandpark.gif" alt="" width="16" height="14"></td>
+    <td><span><b>From East I-17 Corridor</b></span></td>
+    <td style="padding-left:8px;"></td>
+  </tr>
+</table>
+
+<!--start supplemental content for above item-->
+<table>
+  <tr>
+    <td><img src="images/spacer.gif" alt="" width="16" height="14"></td>
+    <td>
+      <span>
+      West on Glendale Ave.<br />
+      Left on 91st Ave.<br />
+      Right on Maryland Ave.
+      </span>
+    </td>
+  </tr>
+</table>
+<!--end supplemental content for above item-->
+</td>
+</tr>
+</table>

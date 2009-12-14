@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21464"
+   name=""
+   committed-date="2009-12-10T11:07:59.698635Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/config/initializers"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21464"
+   name="inflections.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="acc71445fc1c65ebe6fdeba695fea714"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="session_store.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="98598dc5e5787933e6fd8206b8f29206"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="backtrace_silencers.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="ca8db2f40b067cb8615263fa5a238517"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="new_rails_defaults.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="9c28744b57d3e826253b694e67dc2599"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="mime_types.rb"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="53b1216a09d1bbd2863d09a5db5318f0"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+</wc-entries>

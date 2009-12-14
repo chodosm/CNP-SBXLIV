@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21457"
+   name=""
+   committed-date="2009-12-10T00:02:04.024817Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/app/views/pdt_mailer"
+   last-author="mark"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21457"
+   name="confirmation.text.html.rhtml"
+   text-time="2009-12-10T15:23:54.000000Z"
+   committed-date="2009-12-10T00:02:04.024817Z"
+   checksum="7be9a1a3e8feacb447f43aa949057954"
+   last-author="mark"
+   kind="file"
+   prop-time="2009-12-10T15:23:54.000000Z"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21463"
+   name=""
+   committed-date="2009-12-10T11:05:25.442948Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   prop-time="2009-12-10T15:24:09.000000Z"
+   revision="21465"/>
+<entry
+   name="restful_authentication"
+   kind="dir"/>
+<entry
+   name="active_scaffold"
+   kind="dir"/>
+<entry
+   name="12_hour_time"
+   kind="dir"/>
+</wc-entries>

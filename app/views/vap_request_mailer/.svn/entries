@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="20285"
+   name=""
+   committed-date="2008-12-10T06:32:36.456119Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/app/views/vap_request_mailer"
+   last-author="sob"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19318"
+   name="request_received_plain.rhtml"
+   text-time="2009-12-10T15:23:54.000000Z"
+   committed-date="2008-01-28T03:30:22.568350Z"
+   checksum="699a49d3b0ad03db54e0c207897a8cf6"
+   last-author="mark"
+   kind="file"
+   prop-time="2009-12-10T15:23:54.000000Z"/>
+<entry
+   committed-rev="20285"
+   name="request_received_html.rhtml"
+   text-time="2009-12-10T15:23:54.000000Z"
+   committed-date="2008-12-10T06:32:36.456119Z"
+   checksum="0be7625a00c2fbeb04d248a4189052d7"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:54.000000Z"/>
+</wc-entries>

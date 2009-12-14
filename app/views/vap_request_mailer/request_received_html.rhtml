@@ -1,0 +1,67 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head></head>
+<body style="background: #fff;font-family:verdana;font-size:12px;">
+<img src="http://sbxlii.clickandpark.com/images/confirmation-header-vap.gif" alt="Request Confirmation" style="margin-bottom: 20px;" /><br />
+<div style="width: 400px;">
+<p><b>Thank you for requesting a Vehicle Access Permit.</b><br />
+Your registration information for Vendor Access has been received.
+Upon arrival at the Screening Location, present this receipt to the
+NFL Transportation staff on-site to assist you through the Vendor
+Access Process.</p>
+<p>Screening Hours 6AM - 10PM Daily Gameday 5AM - 9AM.<br /></p>
+</div>
+<img src="http://sbxlii.clickandpark.com/images/header-screenreg.gif" alt="Screening Registration" style="margin-top: 20px; margin-bottom: 20px;"><br />
+<div style="padding-left: 18px;">
+<b>Your request number is:</b>&nbsp;<%= @vap_request.id %><br />
+<b>Company/Group Name:</b>&nbsp;<%= @vap_request.vendor %><br />
+<b>Driver Name:</b>&nbsp;<%= @vap_request.driver_name %><br />
+<b>Date of Birth:</b>&nbsp;<%= @vap_request.driver_birth_date.strftime("%m/%d/%Y") %><br />
+<b>License Number:</b>&nbsp;<%= @vap_request.driver_license %><br />
+<b>License State:</b>&nbsp;<%= @vap_request.driver_license_state %><br />
+<b>Delivery Time:</b>&nbsp;<%= @vap_request.delivery_time_output %><br />
+<b>Days Selected:</b><br />
+<ul style="list-style-type: bullet;">
+<% @vap_request.vap_days.each do |day| -%>
+<li><%= day.date.strftime("%a, %b. %e") %></li>
+<% end -%>
+</ul>
+</div>
+<img src="http://sbxlii.clickandpark.com/images/header-directions.gif" alt="Directions To Location" style="margin-top: 20px; margin-bottom: 20px;"><br />
+<div style="background: url(http://sbxlii.clickandpark.com/images/bullet_clickandpark.gif) no-repeat top left; padding-left: 18px;">
+  <b>I-275 (N) From St. Petersburg</b>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>Exit 41C (N) Himes.</li>
+  </ul>
+</div>
+<br /><br />
+<div style="background: url(http://sbxlii.clickandpark.com/images/bullet_clickandpark.gif) no-repeat top left; padding-left: 18px;">
+  <b>SR-60 (E) From Clearwater</b>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>Exit (N) SR-589</li>
+    <li>Exit 3 (N) Eisenhower</li>
+    <li>Right (E) Hillsborough</li>
+    <li>Right (S) Himes.</li>
+  </ul>
+</div>
+<br /><br />
+<div style="background: url(http://sbxlii.clickandpark.com/images/bullet_clickandpark.gif) no-repeat top left; padding-left: 18px;">
+  <b>I-275 (S) From Ocala</b>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>Exit 47 (W) Hillsborough</li>
+    <li>Left (S) Himes.</li>
+  </ul>
+</div>
+<br /><br />
+<div style="background: url(http://sbxlii.clickandpark.com/images/bullet_clickandpark.gif) no-repeat top left; padding-left: 18px;">
+  <b>I-4 (W) From Orlando<br />Florida Ave (N) From Downtown</b>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>Merge onto (S) I-275</li>
+    <li>Exit 41C (N) Himes.</li>
+  </ul>
+</div>
+<img src="http://sbxlii.clickandpark.com/images/header-delivery-map.gif" alt="Map" style="margin-top: 20px; margin-bottom: 20px;"><br />
+<a href="http://sbxlii.clickandpark.com/images/maps/vap_lots.pdf"><img src="http://sbxlii.clickandpark.com/images/download-delivery-map.gif" alt="Click here to download the map" border="0" /></a>
+<br /><br />
+-- <br />
+Click And Park
+</body>

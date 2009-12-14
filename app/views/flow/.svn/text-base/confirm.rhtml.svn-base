@@ -1,0 +1,297 @@
+</head>
+<body>
+
+
+<!--start wrapper-->
+<div>
+
+
+
+<!--start right column layout div // main body content-->
+<!--start right column layout div // main body content-->
+<!--start right column layout div // main body content-->
+<div id="col_right">
+
+<!--start col right content // creates margins, etc-->
+<div id="col_right_content">
+
+
+<% @confirm = true %>
+<img src="images/confirmation-header.gif" alt="" border="0">
+
+
+<p><b>This is your parking confirmation.</b> An email receipt will be sent to you. You can also 
+<a href="*">print this page</a> and bring it with you to the parking gate for admission. 
+<i><a href="/" style="color:#666666;">return to parking information site</a></i></p>
+
+
+
+
+
+
+
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr>
+<td width="17"><img src="images/pillbox-topleft.gif" alt="" width="17" height="11" border="0"></td>
+<td background="images/pillbox-top.gif"><img src="images/pillbox-top.gif" alt="" border="0"></td>
+<td width="17" align="right"><img src="images/pillbox-topright.gif" alt="" width="17" height="11" border="0"></td>
+</tr>
+
+
+<tr>
+<td width="17" background="images/pillbox-left.gif"><img src="images/pillbox-left.gif" alt="" border="0"></td>
+<td align="center" valign="top">
+ 
+ 
+ 
+ 	<!--start pillbox content-->
+	<table cellpadding=6 width="100%">
+	<tr>
+	<td align="center">
+
+	<img src="images/parkingpermit.gif" alt="This is Your Parking Permit" border="0"><br>
+	
+	<span style="font-size:108px;color:#2286bf;font-weight:bold;"><%=params[:lot]%></span>
+	
+	
+<!--	</td>
+	<td width="80"><img src="images/barcode.gif" alt="Barcode" border="0">
+	</td>  -->
+	</tr>
+	</table>
+
+	<!--end pillbox content-->
+
+
+
+</td>
+<td width="17" background="images/pillbox-right.gif" align="right"><img src="images/pillbox-right.gif" border="0"></td>
+</tr>
+
+<tr>
+<td width="17"><img src="images/pillbox-bottomleft.gif" alt="" width="17" height="20" border="0"></td>
+<td background="images/pillbox-bottom.gif"><img src="images/pillbox-bottom.gif" alt="" border="0"></td>
+<td width="17" align="right"><img src="images/pillbox-bottomright.gif" alt="" width="17" height="20" border="0"></td>
+</tr>
+</table>
+<!--end of the liquid pillbox-->
+<!--end of the liquid pillbox-->
+<!--end of the liquid pillbox-->
+
+
+
+
+
+<img src="images/header-screenreg.gif" alt="Screening Registration" class="header">
+
+
+
+
+
+<table border="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" valign="top" style="padding-right:10px;">
+
+
+	
+	
+	
+	<table border="0" cellspacing="0" width="100%" class="confirmationtext">
+	<tr><td colspan="2"><span class="form_subhead">Order Information</span></td></tr>
+	<tr><td>Order ID:</td></td><td align="right">#<%=rand(1000000000)%></td></tr>
+	<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+	<tr><td>Company/Group Name:</td></td><td align="right"><%=params[:company]%></td></tr>
+	<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+	<tr><td>Contact Name:</td></td><td align="right"><%=params[:firstname]%>&nbsp;<%=params[:lastname]%></td></tr>
+	<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+	<tr><td>Contact Address:</td></td><td align="right"><%=params[:address1]%><br>
+    <%=params[:address2]%><br>
+    <%=params[:city]%>&nbsp;<%=params[:state]%>&nbsp;<%=params[:zip]%><br>
+	</td></tr>
+	<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+	<tr><td>Contact Phone:</td></td><td align="right"><%=params[:phone]%></td></tr>
+	</table>
+	
+	
+
+</td>
+<td width="50%" valign="top" style="padding-left:10px;">
+
+
+	
+	
+	
+	<table border="0" cellspacing="0" width="100%" class="confirmationtext">
+	<form>
+	<tr><td colspan="2"><span class="form_subhead">Parking Request</span></td></tr>
+	<tr><td>Location:</td></td><td align="right"><%=params[:lot]%></td></tr>
+	<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+	<tr><td>Event:</td></td><td align="right">NFL Experience</td></tr>
+	<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+	<tr><td valign="top">Days Selected:</td></td><td align="right">
+  <% @days.each do |day| %>
+	<%=day%><br>
+  <% end %>
+	
+	
+	
+	
+	
+	</td></tr>
+	</table>
+	
+
+
+
+</td>
+</tr>
+</table>
+
+
+
+
+<img src="images/header-directions.gif" alt="Directions" class="header">
+
+			<!--start item-->
+			<!--start item-->
+			<!--start item-->
+		
+				<!--start individual bullet, subheader, order button-->
+
+				<table class="eventitem">
+				<tr>
+				<td><img src="images/bullet_clickandpark.gif" alt="" width="16" height="14"></td>
+				<td><span><b>From 101 North</b></span></td>
+				<td style="padding-left:8px;">
+			
+				</td>
+				</tr>
+				</table>
+				<!--end individual bullet, subheader, order button-->
+				
+				<!--start supplemental content for above item-->	
+				<table>
+
+				<tr>
+				<td><img src="images/spacer.gif" alt="" width="16" height="14"></td>
+				<td>
+				
+				<span>Go left, turn right, take another left.<br>
+				Park.</span>
+				
+					
+					
+		
+				</td>
+				</tr>
+				</table>
+				<!--end supplemental content for above item-->
+				
+				
+			<!--end item-->
+			<!--end item-->
+			<!--end item-->
+
+
+<br>
+
+			<!--start item-->
+			<!--start item-->
+			<!--start item-->
+		
+				<!--start individual bullet, subheader, order button-->
+
+				<table class="eventitem">
+				<tr>
+				<td><img src="images/bullet_clickandpark.gif" alt="" width="16" height="14"></td>
+				<td><span><b>From 101 South</b></span></td>
+				<td style="padding-left:8px;">
+			
+				</td>
+				</tr>
+				</table>
+				<!--end individual bullet, subheader, order button-->
+				
+				<!--start supplemental content for above item-->	
+				<table>
+
+				<tr>
+				<td><img src="images/spacer.gif" alt="" width="16" height="14"></td>
+				<td>
+				
+				<span>Go left, turn right, take another left.<br>
+				Park.</span>
+				
+					
+					
+		
+				</td>
+				</tr>
+				</table>
+				<!--end supplemental content for above item-->
+				
+				
+			<!--end item-->
+			<!--end item-->
+			<!--end item-->
+
+
+<img src="images/header-map.gif" alt="Map" class="header">
+
+
+
+
+
+<a href="javascript:alert('download map')"><img src="images/downloadmap.gif" alt="Download Map"></a>
+
+
+<!--start footer div // note: this falls within the right column-->
+<!--start footer div-->
+<!--start footer div-->
+
+<div id="footer">
+<img src="images/cap-bug.gif" alt="Click and Park" id="bug">
+
+
+<a href="http://www.clickandpark.com/" >Home</a> | 
+<a href="http://www.clickandpark.com/about.shtml">About Us</a> | 
+<a href="http://www.clickandpark.com/news_updates.shtml">News & Updates</a> | 
+<a href="http://www.clickandpark.com/faq.shtml">FAQs</a> | 
+<a href="http://www.clickandpark.com/apps/contact">Contact Us</a> | 
+<a href="http://www.clickandpark.com/apps/cart">Shopping Cart</a> | 
+<a href="http://www.clickandpark.com/terms.shtml">Terms</a><br />
+
+<a href="http://www.clickandpark.com/privacy.shtml">Privacy</a> | 
+<a href="http://www.clickandpark.com/corp/index.html">Client Solutions</a>
+
+
+</div>
+
+<!--end footer div-->
+<!--end footer div-->
+<!--end footer div-->
+
+
+
+</div>
+<!--end col right content-->
+
+
+</div>
+<!--end right column layout div // main body content-->
+<!--end right column layout div // main body content-->
+<!--end right column layout div // main body content-->
+
+
+
+</div>
+<!--end wrapper-->
+
+
+
+
+</body>
+</html>

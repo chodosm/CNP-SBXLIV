@@ -1,0 +1,5 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21461/cnp/pdt/trunk/db/migrate/000-skip-old-migrations.sql
+END

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19264"
+   name=""
+   committed-date="2008-01-06T03:49:57.729078Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/lib/tasks"
+   last-author="sob"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19264"
+   name="routes.rake"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2008-01-06T03:49:57.729078Z"
+   checksum="1543531df09d8cacd149692f08717705"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+</wc-entries>

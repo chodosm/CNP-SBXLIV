@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/restful_authentication/notes"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21462"
+   name="AccessControl.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="365ba8f20a91981a372900f20c368103"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:59.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="Trustification.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="b8d589060dc0ed494ad35939e54d275d"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:59.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="SecurityPatterns.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="a9ac3bd2b3a545e911ae95b0e1c44781"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:59.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="SecurityFramework.png"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="7ff2e44c046b8d15056f91c6af482ff9"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:01.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="RailsPlugins.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="c4140c5b6927f62a556fe8122d3514aa"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:01.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="SecurityFramework.graffle"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="76c69411a8a0986cb501747f6b2ef931"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="Tradeoffs.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="227917f33ee37d29c350e9518a4ffadb"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="Authentication.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="d9268a9ac6341e16a3f1a39fede4491f"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="Authorization.txt"
+   text-time="2009-12-10T15:24:02.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="657a9a0a79b28a090cd622033a86a270"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+</wc-entries>

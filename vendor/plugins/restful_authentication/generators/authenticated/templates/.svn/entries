@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21463"
+   name=""
+   committed-date="2009-12-10T11:05:25.442948Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/restful_authentication/generators/authenticated/templates"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21462"
+   name="signup.html.erb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="8b9c38a1c4bc9f8f9848e3713328caf6"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="19201"
+   name="helper.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2007-12-15T00:31:37.998854Z"
+   checksum="097b8498e14865cd721f7450de37e160"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="signup_notification.erb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="cee92af1ae39cb32e24fe816fc36ec41"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="authenticated_test_helper.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="786bd7b747c71fb73f536fcc22e20039"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="login.html.erb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="578d8888ddc1746d45aa94c93b59adc3"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="_model_partial.html.erb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="7c6068c5fcea0c4d13138f4862c2d975"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="controller.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="fb107a47a3c7cf2994563b798284c598"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="authenticated_system.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="4763a483dec7d2076144d6e1f306afdc"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="observer.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="fc0469c40b5479fe4acfb2165bcd96b2"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:02.000000Z"/>
+<entry
+   name="spec"
+   kind="dir"/>
+<entry
+   committed-rev="21462"
+   name="migration.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="b71e98fd98c38e0c1611da4ba15ea426"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="site_keys.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="f674ec1112881595e91f61a7116a8c99"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="model_helper.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="79def599bf6020748b048902f368b65a"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="model.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="a1dee2940fcc77bbecedb7f14a44ce98"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="model_controller.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="a48fd6cded934b9c7e2bd2bf8a35aa59"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="activation.erb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="f9838cb114b30688e747220c62299c36"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="model_helper_spec.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="6cee30bb3b1d446b95996584489acc2e"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="19201"
+   name="mailer.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2007-12-15T00:31:37.998854Z"
+   checksum="acd9c98874d76cf1728ca79d8987dc0c"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   name="features"
+   kind="dir"/>
+</wc-entries>

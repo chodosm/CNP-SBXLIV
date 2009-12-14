@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19058"
+   name=""
+   committed-date="2007-11-28T18:58:11.721044Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/tmp/www.malachiarts.com/~svatos/superbowl/superbowl-html"
+   last-author="dann"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19058"
+   name="confirm.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="d23460b8760d92def38abb350e2fe460"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:55.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="19058"
+   name="rvlocations.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="0ad8d6a1dbaf295b399ec629d1e03b15"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="sap.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="8520f9e1c9c5d09d6e183c04879e6ec7"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="style.css"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="2fa22067cf58dafab0ebf00c6badcae0"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="prescreen.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="97f795294e3190b2b6292434f5d746ed"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="vap.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="44730977092ef458a9764f0583133a94"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:57.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="index.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="d4e16b675bc6c29523813fcc8ffda070"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="nflx.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="decfda8fb00e7a64f037048c10bf646d"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="dog.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="32948e24593c76eaa3c3bf971f54f936"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="nflol.html"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="ca1b2dd1a3616b6772c8b249c7bac858"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+<entry
+   committed-rev="19058"
+   name="style-confirmation.css"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2007-11-28T18:58:11.721044Z"
+   checksum="244f18085f46de5825b117462223ed2e"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+</wc-entries>

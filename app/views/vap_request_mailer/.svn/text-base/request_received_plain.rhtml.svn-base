@@ -1,0 +1,40 @@
+Thank you for requesting a Vehicle Access Permit.
+
+Your registration information for Vendor Access has been received.
+Upon arrival at the Screening Location, present this receipt to the
+NFL Transportation staff on-site to assist you through the Vendor
+Access Process.
+
+Screening Hours 6AM - 6PM Daily Gameday 5AM - 9AM.
+
+Your request number is: <%= @vap_request.id %>
+Company/Group Name: <%= @vap_request.vendor %>
+Driver Name: <%= @vap_request.driver_name %>
+Date of Birth: <%= @vap_request.driver_birth_date.strftime("%m/%d/%Y") %>
+License Number: <%= @vap_request.driver_license %>
+License State: <%= @vap_request.driver_license_state %>
+Delivery Time: <%= @vap_request.delivery_time_output %>
+
+Days Selected:
+<% @vap_request.vap_days.each do |day| -%>
+<%= day.date.strftime("%a, %b. %e") %>
+<% end -%>
+
+Map: <%= WEB_URL %>/images/maps/vap_lots.pdf
+
+Directions:
+
+From 101 North:
+Exit at West Northern Avenue
+Turn East to North 91st Avenue
+Turn Right to West Bethany Home Road
+Turn Right to delivery check-in station.
+
+From 101 South:
+Exit at West Camelback Road
+Turn Right to North 91st Avenue
+Turn Left to Bethany Home Road
+Turn Left to delivery check-in station.
+
+-- 
+Click And Park

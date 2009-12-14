@@ -1,0 +1,8 @@
+--- 
+log_file: log/mongrel.log
+port: 1911
+pid_file: tmp/pids/mongrel.pid
+servers: 4
+environment: production
+user: cnp
+group: cnp

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19231"
+   name=""
+   committed-date="2007-12-17T18:11:58.262124Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/test/fixtures"
+   last-author="dann"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="pdt_mailer"
+   kind="dir"/>
+<entry
+   committed-rev="19201"
+   name="agents.yml"
+   text-time="2009-12-10T15:23:52.000000Z"
+   committed-date="2007-12-15T00:31:37.998854Z"
+   checksum="5d65597750601415eb90689eba67ca64"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:23:52.000000Z"/>
+<entry
+   committed-rev="19097"
+   name="events.yml"
+   text-time="2009-12-10T15:23:52.000000Z"
+   committed-date="2007-12-07T21:23:32.125117Z"
+   checksum="45edb77e2976023c0ccffa2ad7ceaa16"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:52.000000Z"/>
+<entry
+   name="vap_request_mailer"
+   kind="dir"/>
+<entry
+   committed-rev="19097"
+   name="access_codes.yml"
+   text-time="2009-12-10T15:23:52.000000Z"
+   committed-date="2007-12-07T21:23:32.125117Z"
+   checksum="45edb77e2976023c0ccffa2ad7ceaa16"
+   last-author="dann"
+   kind="file"
+   prop-time="2009-12-10T15:23:52.000000Z"/>
+</wc-entries>

@@ -1,0 +1,151 @@
+<h2>Venue Access Pass Pre-Event</h2>
+
+
+<p>Please complete the following form.  Once the form has been 
+submitted, a parking confirmation will be presented.  Please 
+print the number of permits requested.  A copy of the permit 
+will be sent to the email listed in the form.  A printable map 
+and directions are supplied with the parking permit.</p>
+
+
+<img src="images/header-preeventform.gif" alt="Parking Registration" class="header">
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<!--start of the liquid pillbox // adjust width to whatever you want-->
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr>
+<td width="17"><img src="images/pillbox-topleft.gif" alt="" width="17" height="11" border="0"></td>
+<td background="images/pillbox-top.gif"><img src="images/pillbox-top.gif" alt="" border="0"></td>
+<td width="17" align="right"><img src="images/pillbox-topright.gif" alt="" width="17" height="11" border="0"></td>
+</tr>
+
+
+<tr>
+<td width="17" background="images/pillbox-left.gif"><img src="images/pillbox-left.gif" alt="" border="0"></td>
+<td valign="top">
+ 
+ 
+ 
+ 	<!--start pillbox content-->
+	<table cellpadding=6 width="100%">
+	<tr>
+	<td valign="top">
+<table border="0" cellspacing="5" width="100%">
+<%= form_tag :action => 'confirm' %>
+<input type="hidden" name="access_code" value="<%=@access_code.code%>">
+<input type="hidden" name="application" value ="sap" />
+<input type="hidden" name="event_id" value ="<%= @event.id%>" />
+<tr><td colspan="2"><span class="form_subhead">Day and Location</span></td></tr
+<tr><td>Select Day</td></td><td align="right">
+	
+	
+	<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top" align="left" style="padding-right:20px;">
+  <% @days_available.each do |day| %>
+	<input name="day<%=day.id%>" <%= oldparam("day#{day.id}") == 'on' ? 'checked' : ''%> class="daycheck" type="checkbox">&nbsp;<%=day.day_start.strftime("%a, %b. %d")%><br>
+  <% end %>
+	</td>
+	
+	<td valign="top" valign="top" align="left" >
+	
+	</td>
+	</tr>
+	
+	
+	<tr><td colspan="2" align="right" style="padding-top:3px; padding-right:20px;">
+	<i><a href="#" class="selectDays">select all days</a></i></td></tr>
+	</table>
+
+
+</td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['days']%></td></tr>
+
+
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+
+<tr><td>Select Quantity</td><td align="right">
+<input class="generalinfo" value="<%=oldparam('quantity')%>" name="quantity" style="width:100px;"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['quantity']%></td></tr>
+
+
+
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+
+
+<tr><td>Select Lot</td></td><td align="right">
+<select name="lot_id">
+<% if !(@lots.size == 1) -%>
+<option>choose...</option>
+<% end -%>
+<% @lots.each do |lot| -%>
+  <option value="<%= lot.id %>"<%= " SELECTED='1'" if (@lots[0] == lot) && (@lots.size == 1) %>><%= lot.lot_name.titleize %></option>
+<% end -%>        
+</select></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['lot']%></td></tr>
+
+
+<tr><td colspan="2" style="border-bottom:1px solid #cccccc;"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+
+
+
+<tr><td colspan="2" style="padding-top:15px;"><span class="form_subhead">Contact Information</span></td></tr>
+<tr><td>First Name</td><td align="right"><input name="firstname" value="<%=oldparam("firstname")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['first_name']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Last Name</td><td align="right"><input name="lastname" value="<%=oldparam("lastname")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['last_name']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Company/Group</td><td align="right"><input name="company" value="<%=oldparam("company")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['company']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Address</td><td align="right"><input name="address1" value="<%=oldparam("address1")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['address1']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Address (optional)</td><td align="right"><input name="address2" value="<%=oldparam("address2")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['address2']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>City</td><td align="right"><input name="city" value="<%=oldparam("city")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['city']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>State</td><td align="right"><input name="state" value="<%=oldparam("state")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['state']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Zip/Postal Code</td><td align="right"><input name="zip" value="<%=oldparam("zip")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['zip']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Phone</td><td align="right"><input name="phone" value="<%=oldparam("phone")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['phone']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Email<p style="font-size:12px; font-style:italic">Enter the e-mail address and password for your Click and Park account.  If you don't  have an account, a new one will be created for you.</p></td><td align="right"><input name="email" value="<%=oldparam("email")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['email']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td>Password<p style="font-size:12px; font-style:italic">Forgot your password? <a href="http://www.clickandpark.com/apps/login?m=forgot" target="_blank">Click here.</a></p></td><td align="right"><input name="password" value="<%=oldparam("password")%>" class="generalinfo"></td></tr>
+<tr><td colspan=2 style="color:red"><%=flash[:errors]['password']%></td></tr>
+<tr><td colspan="2" class="spaceclass"><img src="images/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
+<tr><td colspan="2" align="center" style="padding-top:15px;"><input type="image" src="images/button-submit.gif" alt="submit form"></td></tr>
+</form>
+</table>
+
+
+
+	
+	</td>
+	</tr>
+	</table>
+
+	<!--end pillbox content-->
+
+
+
+</td>
+<td width="17" background="images/pillbox-right.gif" align="right"><img src="images/pillbox-right.gif" border="0"></td>
+</tr>
+
+<tr>
+<td width="17"><img src="images/pillbox-bottomleft.gif" alt="" width="17" height="20" border="0"></td>
+<td background="images/pillbox-bottom.gif"><img src="images/pillbox-bottom.gif" alt="" border="0"></td>
+<td width="17" align="right"><img src="images/pillbox-bottomright.gif" alt="" width="17" height="20" border="0"></td>
+</tr>
+</table>
+<!--end of the liquid pillbox-->
+<!--end of the liquid pillbox-->
+<!--end of the liquid pillbox-->

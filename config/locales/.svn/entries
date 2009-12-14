@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21464"
+   name=""
+   committed-date="2009-12-10T11:07:59.698635Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/config/locales"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21464"
+   name="en.yml"
+   text-time="2009-12-10T15:23:58.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="16efc327461a7bdac033b4897171b5c6"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:23:58.000000Z"/>
+</wc-entries>

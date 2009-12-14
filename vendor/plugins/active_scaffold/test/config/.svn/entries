@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/test/config"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21462"
+   name="show_test.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="c136638de28fdb27ea1b11060f68b37a"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="update_test.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="60c4f5d70d7ec5eb831813ba9658eb58"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="create_test.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="5c2d5410f47d493b2ca2a79c04c75e65"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="base_test.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="7648d8182d2b0d120d66dee958c2eef1"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="list_test.rb"
+   text-time="2009-12-10T15:24:03.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="fe02604adc7234d84e80f56a83082c6f"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:03.000000Z"/>
+</wc-entries>

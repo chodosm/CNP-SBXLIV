@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/lib/active_scaffold/locale"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21462"
+   name="en.rb"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="bd69c15adb43a179eb36fb3e22f6d9f1"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:06.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="ru.yml"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="aabd81604863ba32a235439c861f65d3"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:06.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="es.yml"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="5ea8189e41a08b3bfbaa72323edf40ab"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:06.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="fr.rb"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="22c2d5f8ae3b80ae67116cd4a3984a95"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:06.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="de.rb"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="e6504a2206fb8a67947b5034a8f36f91"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:06.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="ja.yml"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="acbc5eaa0a3323ac1f123fcc48c9bcc6"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:07.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="hu.yml"
+   text-time="2009-12-10T15:24:07.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="85242c5d8ea44fcced9cd37024a43ec1"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:07.000000Z"/>
+</wc-entries>

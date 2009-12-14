@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21462"
+   name=""
+   committed-date="2009-12-10T11:03:47.960088Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/test/mock_app/public/javascripts/active_scaffold/default"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21462"
+   name="rico_corner.js"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="514ee6470e3370f0bf983d5991e63efe"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:04.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="dhtml_history.js"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="c60e000135bf9aef03a4ded64e9db1e0"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:04.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="form_enhancements.js"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="a4f93a246e72678b44dccc08a78a0f9f"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:04.000000Z"/>
+<entry
+   committed-rev="21462"
+   name="active_scaffold.js"
+   text-time="2009-12-10T15:24:04.000000Z"
+   committed-date="2009-12-10T11:03:47.960088Z"
+   checksum="71257dc3ed02042a29165557281e93f4"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:24:04.000000Z"/>
+</wc-entries>

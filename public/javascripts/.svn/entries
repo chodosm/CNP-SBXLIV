@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21464"
+   name=""
+   committed-date="2009-12-10T11:07:59.698635Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/public/javascripts"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="21442"
+   name="oodomimagerollover.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2009-12-09T07:24:18.330601Z"
+   checksum="12931f0a51789e33996a1ad1eecf5333"
+   last-author="mark"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="prototype.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="b5684120e496c310977713be34be4868"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="effects.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="a7d95dc040992701ba78fd5b97af950e"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+<entry
+   committed-rev="20265"
+   name="jquery.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2008-12-08T08:01:03.248823Z"
+   checksum="a9331828c517ac5d97f93b3cfdbcc9bc"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+<entry
+   name="active_scaffold"
+   kind="dir"/>
+<entry
+   committed-rev="21464"
+   name="dragdrop.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="3aa08ad9af21eb305a120e2e1a47d1af"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="application.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="8a750594360b0bd302e15147eacadc9a"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+<entry
+   committed-rev="21464"
+   name="controls.js"
+   text-time="2009-12-10T15:25:20.000000Z"
+   committed-date="2009-12-10T11:07:59.698635Z"
+   checksum="136701e951925f3dcb84f9a231f9326e"
+   last-author="damianm"
+   kind="file"
+   prop-time="2009-12-10T15:25:20.000000Z"/>
+</wc-entries>

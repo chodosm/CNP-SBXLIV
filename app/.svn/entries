@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21464"
+   name=""
+   committed-date="2009-12-10T11:07:59.698635Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/app"
+   last-author="damianm"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   name="helpers"
+   kind="dir"/>
+<entry
+   name="models"
+   kind="dir"/>
+<entry
+   name="controllers"
+   kind="dir"/>
+<entry
+   name="views"
+   kind="dir"/>
+</wc-entries>

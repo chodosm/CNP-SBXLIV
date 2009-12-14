@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19168"
+   name=""
+   committed-date="2007-12-13T17:17:35.116764Z"
+   url="https://dev.petta-tech.com/svn/cnp/pdt/trunk/vendor/plugins/active_scaffold/public"
+   last-author="sob"
+   kind="dir"
+   uuid="d675c337-50eb-0310-b031-94b33600c58c"
+   revision="21465"/>
+<entry
+   committed-rev="19168"
+   name="blank.html"
+   text-time="2009-12-10T15:24:08.000000Z"
+   committed-date="2007-12-13T17:17:35.116764Z"
+   checksum="220be1cffa3bcc695a214e4a693ea0f9"
+   last-author="sob"
+   kind="file"
+   prop-time="2009-12-10T15:24:08.000000Z"/>
+</wc-entries>
