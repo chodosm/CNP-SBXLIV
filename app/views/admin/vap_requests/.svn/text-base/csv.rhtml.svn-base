@@ -1,2 +1,0 @@
-"id","date","delivery_time","vendor","email","driver_name","driver_license","driver_license_state","driver_birth_date","vehicle_type","vehicle_color","vehicle_department","contact","contact_phone","purpose"
-<%= render(:partial => "vap_request", :collection => @vap_requests) %>

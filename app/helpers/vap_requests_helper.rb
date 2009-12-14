@@ -1,3 +1,0 @@
-module VapRequestsHelper
-  
-end
